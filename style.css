@@ -1,3 +1,7 @@
-#table {
+table {
   margin: auto;
+}
+
+h1 {
+  color: green;
 }
